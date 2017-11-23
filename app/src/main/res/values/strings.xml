@@ -4,6 +4,12 @@
     <string name="next">Next</string>
     <string name="prev">Prev</string>
     <string name="todo_list">Todo list!</string>
+    <string name="textViewTodoDetail">TextViewTodoDetail</string>
+    <string name="detail">Detail</string>
+    <string name="request_code_mismatch">requestCode in intent does not match the parent requestCode</string>
+    <string name="back_button_pressed">Back button pressed</string>
+    <string name="todo_complete">Done</string>
+    <string name="textViewComplete">Not completed</string>
 
     <string-array name="todo">
         <item>Wake up</item>
@@ -11,6 +17,14 @@
         <item>Make at least one person laugh</item>
         <item>Plant a tree</item>
         <item>Go to sleep</item>
+    </string-array>
+
+    <string-array name="todo_detail">
+        <item>Wake upppppp</item>
+        <item>Drink Coffeeeeeeeeeee</item>
+        <item>Make at least one person laughhhhhhhhhhh</item>
+        <item>Plant a treeeeeeeeeeeee</item>
+        <item>Go to sleepppppppppppppppp</item>
     </string-array>
 
 </resources>
